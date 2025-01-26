@@ -21,7 +21,7 @@ A machine learning project focused on identifying the species of flowers based o
 
   The target variable in the dataset is **Species**, which indicates the type of flower.  
 
-### Key Techniques Used
+### ⚙️ Key Techniques Used
 
 In this Iris flower classification project, several data processing and machine learning techniques were employed to optimize the accuracy of classifying the flower species. Below are the main approaches used:
 
