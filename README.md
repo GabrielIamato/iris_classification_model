@@ -168,4 +168,4 @@ Contributions are welcome! To contribute, follow these steps:
 
 ## 📄 License  
 
-This project is licensed under the MIT License.  
+This project is licensed under the GNU General Public License v3.0, published by the Free Software Foundation.
